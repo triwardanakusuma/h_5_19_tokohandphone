@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133520270130",
+    "project_id": "h-5-19-tokohandphone",
+    "storage_bucket": "h-5-19-tokohandphone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133520270130:android:bf41fcf2fb3d5671a12d2b",
+        "android_client_info": {
+          "package_name": "com.example.h_5_19_tokohandphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133520270130-tmjirlil7vks82lpjls1bmkn2q0hb9il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Zm8t7vkcBrBIfDrkF0AH5i7U07cOFcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133520270130-tmjirlil7vks82lpjls1bmkn2q0hb9il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
